@@ -19,3 +19,13 @@ if (age>19){
 var ageuserinput=prompt("guess the age");
 var coloruserinput=prompt("what do you think is my fav color?")
 
+function Basma (){
+
+
+    for(var i=0;i>20;i+=5){
+        console.log(i);
+    }
+    
+   
+}
+Basma()
